@@ -34,7 +34,7 @@ export function Home() {
   return (
     <div className="container">
       <header>
-        <img src="../../src/images/harry-potter-logo-2.png" alt="" />
+        <img src="/assets/img/harry-potter-logo-2.png" alt="logo" />
         <div className='line'></div>
       </header>
       <main>
