@@ -38,7 +38,7 @@ export function Home() {
         <div className='line'></div>
       </header>
       <main>
-        <h1>Search about your favorite character</h1>
+        <h1>Search about your favorite character!!!!!</h1>
         <section className='inputButton'>
           <input
             type="text"
