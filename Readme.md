@@ -6,7 +6,7 @@
 <h2>Links</h2>
 <ul>
   <li>
-    <a href="#">Link do site</a>
+    <a href="https://keen-pastelito-ce76bc.netlify.app">Link do site</a>
   </li>
   <li>
     <a href="https://sabrinaalves.tk" target="_blank">Meu portifólio</a>
