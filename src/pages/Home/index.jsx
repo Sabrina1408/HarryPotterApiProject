@@ -13,7 +13,7 @@ export function Home() {
       return;
     }
     try{
-      const response = await fetch('http://hp-api.herokuapp.com/api/characters')
+      const response = await fetch('https://hp-api.herokuapp.com/api/characters')
       const data = await response.json()
       for (let i in data) {
         /* if(characterCardName != data[i].name){
@@ -38,7 +38,7 @@ export function Home() {
         <div className='line'></div>
       </header>
       <main>
-        <h1>Search about your favorite character!!!!!</h1>
+        <h1>Search about your favorite character!</h1>
         <section className='inputButton'>
           <input
             type="text"
