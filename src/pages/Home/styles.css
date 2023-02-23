@@ -1,6 +1,6 @@
 /* Color on global.css */
 
-.container {
+body { /* .container */
   background: var(--background);
   height: 100vh;
 }
@@ -68,5 +68,5 @@ main button {
   box-shadow: 1px 3px 8px rgba(0,0,0, 0.5);
 }
 main button:hover {
-  transform: scaleX(1.1);
+  transform: scaleX(1.1) scaleY(1.1);
 }
