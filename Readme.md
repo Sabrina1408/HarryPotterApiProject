@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/88604193/183264482-75b80c04-afc9-4a0a-858f-fa5cbb408da2.png)
 <h1>Site Harry Potter</h1>
 <p>Site feito em React pegando dados da Api 
-  <a href="http://hp-api.herokuapp.com" target="_blank">http://hp-api.herokuapp.com</a>.
+  <a href="https://hp-api.onrender.com/api/characters" target="_blank">https://hp-api.onrender.com/api/characters</a>.
 </p>
 <h2>Links</h2>
 <ul>
@@ -14,7 +14,7 @@
 </ul>
 <h2>Status</h2>
 <ul>
-  <li>Semi-finalizado.</li>
+  <li>Finalizado.</li>
 </ul>
 <h1>Aprendizado</h1>
 <ul>
