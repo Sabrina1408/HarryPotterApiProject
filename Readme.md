@@ -1,14 +1,14 @@
 ![image](https://user-images.githubusercontent.com/88604193/183264482-75b80c04-afc9-4a0a-858f-fa5cbb408da2.png)
 <h1>👩🏽‍💻 Site Harry Potter</h1>
 <h1></h1>
-<p>Site feito em React para testar conhecimentos com API</p>
+<p>Site feito em React para testar conhecimentos com API.</p>
 <h2>Links</h2>
 <ul>
   <li>
     <a href="https://harrypotterapiproject.netlify.app">Link do site</a>
   </li>
   <li>
-    <a href="[https://harrypotterapiproject.netlify.app](https://hp-api.onrender.com/api/characters)">Link da API</a>
+    <a href="https://hp-api.onrender.com/api/characters">Link da API</a>
   </li>
   <li>
     <a href="https://sabrinaalvesbrito.com.br" target="_blank">Meu portifólio</a>
